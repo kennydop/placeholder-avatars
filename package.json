@@ -1,0 +1,17 @@
+{
+  "name": "placeholder-avatars",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "canvas": "^2.11.2",
+    "randomcolor": "^0.6.2",
+    "simplex-noise": "^4.0.1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "GNU GPLv3"
+}
