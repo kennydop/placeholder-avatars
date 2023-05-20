@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "dev": "nodemon index.js"
   },
   "dependencies": {
     "canvas": "^2.11.2",
@@ -13,5 +14,8 @@
   },
   "keywords": [],
   "author": "",
-  "license": "GNU GPLv3"
+  "license": "GNU GPLv3",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
 }
