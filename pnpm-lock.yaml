@@ -4,6 +4,9 @@ dependencies:
   canvas:
     specifier: ^2.11.2
     version: 2.11.2
+  chroma-js:
+    specifier: ^2.4.2
+    version: 2.4.2
   randomcolor:
     specifier: ^0.6.2
     version: 0.6.2
@@ -125,6 +128,10 @@ packages:
   /chownr@2.0.0:
     resolution: {integrity: sha512-bIomtDF5KGpdogkLd9VspvFzk9KfpyyGlS8YFVZl7TGPBHL5snIOnxeshwVgPteQ9b4Eydl+pVbIyE1DcvCWgQ==}
     engines: {node: '>=10'}
+    dev: false
+
+  /chroma-js@2.4.2:
+    resolution: {integrity: sha512-U9eDw6+wt7V8z5NncY2jJfZa+hUH8XEj8FQHgFJTrUFnJfXYf4Ml4adI2vXZOjqRDpFWtYVWypDfZwnJ+HIR4A==}
     dev: false
 
   /color-support@1.1.3:
